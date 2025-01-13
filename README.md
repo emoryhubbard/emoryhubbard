@@ -11,7 +11,7 @@
       </a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emoryhubbard&show_icons=true&locale=en&layout=donut&theme=dark&langs_count=7" alt="Emory Hubbard's Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emoryhubbard&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8" alt="Emory Hubbard's Top Languages" />
     </td>
   </tr>
 </table>
