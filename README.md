@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working at [Predictive Equations](https://www.predictive-equations.ai/) building their image processing platform
-- 🔎 I’m looking for a full-time software engineer role in VA, MD, DC, or remote
-- 📫 Feel free to reach out to me by email: **emory.d.hubbard@gmail.com**
-- ⚡ Fun facts: Brigham Young University - Idaho (B.S. Software Development, 2024), [5-star web dev](https://www.wyzant.com/match/tutor/89501331) and data science tutor on Wyzant
+🔭 I’m currently working at [Predictive Equations](https://www.predictive-equations.ai/) building their image processing platform
+🔎 I’m looking for a full-time software engineer role in VA, MD, DC, or remote
+📫 Feel free to reach out to me by email: **emory.d.hubbard@gmail.com**
+⚡ Fun facts: Brigham Young University - Idaho (B.S. Software Development, 2024), [5-star web dev](https://www.wyzant.com/match/tutor/89501331) and data science tutor on Wyzant
 
 <table>
   <tr>
